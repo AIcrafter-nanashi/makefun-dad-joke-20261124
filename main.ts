@@ -2,7 +2,7 @@ import * as fs from "fs";
 import * as path from "path";
 
 // Generate a dad joke
-const joke = "\"Did the stud finder work?\" my wife asked. \"It beeped twice,\" I said. \"Once at the wall, and once when I stood next to it.\"";
+const joke = "My wife held up a paint chip called Agreeable Gray and asked, 'Well?' 'Honey,' I said, 'I've been that color for years.'";
 
 // Determine output directory
 const outputDir = process.env.MAKEFUN_TEST_OUTPUT || "/output";
